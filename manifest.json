@@ -1,0 +1,1 @@
+﻿{  "short_name": "Office",  "name": "wolfdream W4009-Office",  "display": "fullscreen",  "orientation": "portrait",  "icons": [    {      "src": "http://wolfdream.de/images/logo.gif",      "sizes": "400x400",      "type": "image/gif",      "density": 1    }  ]}
